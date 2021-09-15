@@ -1,9 +1,8 @@
 import React from 'react'
-import './NavBar.css'
 function NavBar() {
     return (
-        <div className="NavBar">
-            <h3>C-Spot</h3>
+        <div className="bg-white p-4">
+            <div className="font-semibold text-2xl text-green-600"> 💉</div>
         </div>
     )
 }

@@ -1,1 +1,9 @@
-This is my first react app to find the vaccination center with pincode
+# C-Slot Vaccine Center Founder
+
+### Build with
+- React JS
+- Tailwind CSS
+- Covin API
+  
+  
+![image](assets/image.png)
